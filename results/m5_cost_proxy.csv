@@ -1,0 +1,6 @@
+Platform,Scenario,Cost_Per_1000_Requests_USD,Assumptions
+P1_VM,S1,0.000661,t2.small @ $0.023/hr / 1739 req
+P2_Docker,S1,0.000658,t2.small @ $0.023/hr / 1747 req
+P3_Lambda,S1,???,Lambda per-request + GB-sec
+P1_VM,S2,???,Burst scenario
+P2_Docker,S2,???,Burst scenario

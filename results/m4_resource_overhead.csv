@@ -1,0 +1,5 @@
+Platform,Phase,CPU_Percent,Memory_MB
+P1_VM,Idle,6.0,802.8
+P1_VM,Peak,45.0,801.5
+P2_Docker,Idle,0.14,720.7
+P2_Docker,Peak,41.0,719.5

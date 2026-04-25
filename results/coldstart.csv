@@ -1,0 +1,11 @@
+platform,run,latency_ms
+P1_VM,1,11648
+P1_VM,2,12402
+P1_VM,3,11577
+P1_VM,4,11092
+P1_VM,5,11715
+P2_Docker,1,9718
+P2_Docker,2,9768
+P2_Docker,3,10191
+P2_Docker,4,10669
+P2_Docker,5,9692

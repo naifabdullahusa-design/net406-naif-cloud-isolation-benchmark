@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and temp files
+*.log
+/tmp/
+
+# Old mock data (kept locally as backup)
+results_old_mock/
+
+# Misc
+benchmark_log.txt
+nohup.out
