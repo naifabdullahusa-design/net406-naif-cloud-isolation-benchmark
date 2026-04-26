@@ -1,6 +1,6 @@
 # NET406 — Cloud Compute Isolation Benchmarking
 
-**Author:** Naif Abdullah  
+**Author:** Naif Abdullah  - faisal abdo
 **Workstation:** NAIFA-PC  
 **Course:** NET406 Cloud Architecture, Spring 2025-26  
 **Institution:** Canadian University Dubai
@@ -25,7 +25,7 @@ Endpoints:
 |---|---|---|
 | **P1 — VM** | Direct Python/Uvicorn process on Ubuntu 24.04 EC2 t2.small | Naif Abdullah |
 | **P2 — Docker** | Same service in a `python:3.11-slim` container, model pre-baked | Naif Abdullah |
-| **P3 — AWS Lambda** | Container image deployed via Lambda Function URL | Faisal (pending) |
+| **P3 — AWS Lambda** | Container image deployed via Lambda Function URL | Faisal |
 
 ## Task Distribution
 
