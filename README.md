@@ -1,6 +1,7 @@
 # NET406 — Cloud Compute Isolation Benchmarking
 
 **Author:** Naif Abdullah  - faisal abdo
+
 **Workstation:** NAIFA-PC  
 **Course:** NET406 Cloud Architecture, Spring 2025-26  
 **Institution:** Canadian University Dubai
