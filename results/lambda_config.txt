@@ -1,0 +1,23 @@
+Lambda Function URL:
+https://hgfewndpgplj32vid345rewpii0gxewt.lambda-url.us-east-1.on.aws
+
+Function Name:
+p3-lambda
+
+Region:
+us-east-1
+
+Architecture:
+x86_64
+
+Memory Size:
+2048 MB
+
+Timeout:
+180 seconds
+
+Deployment:
+AWS Lambda container image (ECR)
+
+Image:
+820242912402.dkr.ecr.us-east-1.amazonaws.com/p3-lambda:latest

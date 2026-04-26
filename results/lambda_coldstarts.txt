@@ -1,0 +1,8 @@
+M1 Cold Start Results (ms)
+Lambda Function URL: https://hgfewndpgplj32vid345rewpii0gxewt.lambda-url.us-east-1.on.aws/health
+--------------------------------
+Run 1: 1400.67 ms
+Run 2: 1082.75 ms
+Run 3: 1075.54 ms
+Run 4: 965.55 ms
+Run 5: 1091.27 ms
